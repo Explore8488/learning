@@ -1,1 +1,1 @@
-This page is for learning about web development
+This page is for learning about git
